@@ -145,7 +145,7 @@ export default function Home() {
             </label>
             <div className="space-y-3">
               <div className="grid grid-cols-2 gap-3">
-                <Select placeholder="" defaultValue="normal">
+                <Select placeholder="">
                   <SelectItem
                     value="normal"
                     defaultChecked
